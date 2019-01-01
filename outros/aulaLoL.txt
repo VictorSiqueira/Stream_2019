@@ -1,0 +1,187 @@
+- comecar na selecao de champion, saber:
+	- se seu campeao ganha na luta
+	- se tem mais push
+	- se tem mobilidade de andar pelo mapa
+	- se tem capacidade de lutar no rio
+- Saber abusar da sua capacidade, se vc tem push,
+puxar e chamar pra um dive pra ter pressao de kill,
+se vc tem pressao de kill, vc zonea ele pra ter pressao de farm
+
+- Saber a zona de acao do champion (skill ou aa mais longo do champion)
+para evitar um poke '
+
+- Qualquer coisa que voce for fazer no mapa voce deve puxar as lanes, 
+a maior pressao que tem é dos minions (slow push deixa apenas os melees adversarios),
+se o adverario givar wave perde 100 de gold por wave
+
+/////////// LANE PHASE
+
+---- PRESSAO DA LANE
+
+- Voce tem sua lane e tem o objetivo de pressionar ela, 
+se vc pega um campeao com early fraco, vc abre mao de pressionar a lane
+
+- Sempre tentar pegar pressao de push, para poder pegar visao, 
+para ter track do jg, para evitar ganks e saber o que ele esta fazendo
+
+- Sempre que sair pra wardar, voce pode ajudar as outras lanes e seu jg
+
+- Sair da lane causa pressao em todas lanes enquanto o adversario nao tem visao
+
+- Muito comum wardar quando o jg nao esta por ali, nao precisa wardar 
+se o jg inimigo comecou onde vc esta, exceto se o jg tiver potencial de gank lvl 2
+
+- voce nunca pode sair da lane, de forma que voce perca farm ou xp, melhor momento 
+pra sair da lane é quando voce empurra a wave de catapulta pra baixo da torre
+
+- tomar cuidado quando estiver contra uma lane que tem pressao de kill, 
+pois as vezes vale a pena givar a wave por kill
+
+- sempre que vc tiver pressao, e seu time nao, liberar a pressao dos outros laners
+
+- sempre que seu jg estiver na sua side, andar junto para pressionar o jg adversario
+
+- derrubar a primeira torre e pegar todos os stacks da 1500+ de gold
+
+----- VISAO
+
+- melhor momento da ward é quanto a catapa vai pra torre e a lane adversaria nao pode 
+te acompanhar
+
+- sempre prestar atencao nas outras lanes, para evitar gank dos laners
+
+//////// MID GAME
+- Se voce ganhar sua lane, busque obejtivos proximos
+
+- Se voce é top ou mid, voce nao precisa inverter com o bot caso tenha drag
+
+- Split nesse momento do jogo nao vale a pena, junte com o time e ajude na pressao 
+junto a todos
+
+- objetivo do MID game é zerar a linha de t1, o arauto e o segundo drag
+
+- nesse momento do jogo comeca as skirmishs(pequenas lutas em time)
+
+- Bruisers e Magos comecam a crescer muito no mid game, mas alguns outros 
+champions tem o power spike no mid game, porem voce nao vai buscar lutar a toa,
+vai forcar objetivo para aproveitar o power spike do champion, busque objetivo
+
+- Voce so luta no objetivo, antes disso voce so farma e ganha visao, por exemplo 
+no arauto
+
+- comeca a pensar a no win condition do time, para saber se o late é interessante 
+ou se voce finaliza mais rapido o game, pense no seu champion e no que ele faz, 
+para saber o que o time deve fazer, exemplo fiora, comeca forcar o split para poder
+dar espaco pro seu time
+
+----- ROTACAO
+- Voce nao pode fazer uma rotacao no "automatico", sempre pense 
+"tem objetivo para fazer no mapa?" (torre, arauto, drag) , voce puxa a lane para poder 
+executar caso tenha ou va ter
+
+- vc pode fazer o slow push, fast push, freeze, ou somente push (so limpar)
+
+- quando voce for fazer uma jogada cross map faca um slow push
+
+////// LATE GAME
+- comeca quando todas t1 cai e quando o barao comeca ser focado
+
+- SEMPRE TEAM FIGHT
+
+- esse é o momento qque o adc comeca andar junto com o time, quem tem tp anda na side 
+contraria do barao, e o sup anda junto com o jg cada vez mais
+
+- esse momento é quando quando o macro comeca a pesar mais, principalmente o push de 
+waves
+
+- todas as lanes devem estar preocupadas com as sides, para poder puxa-las e numa 
+eventual luta ter vantagem
+
+- voce nao pode givar pressao neste ponto do jogo, senao voce esta aceitando givar 
+um objetivo
+
+------ LANE ASSIGMENT
+- comecam usar apenas no late game
+
+- o jg, sempre deve estar perto do baron, nunca aparecer longe do barao
+
+- o adc e o sup pressionando mid e ganhando visao para o baron
+
+- sup protege o jg e o adc
+
+- o mid caso tenha tp vai puxar bot ou top, caso nao tenha tp puxa top
+
+- o top pressiona bot, exceto se nao tiver tp ai faz o slow push
+
+------ SLOW PUSH
+
+- manter a pressao com minion sempre é importante, ate mesmo para quando voce perde 
+o baron, pois o adversario tera que cleanar as waves e perde tempo de baron
+
+----- WIN CONDITION
+
+- Visao é maior de todas, saber o que o oponente pode fazer é a maior vantagem,
+ principalmente no late game
+
+- alinhe o potencial do seu champ com visao no mapa, warde os pontos do mapa que
+ te ajudem nos seu plano de jogo
+
+- na soloq voce warda pra si mesmo na maioria das vezes
+
+- sempre ande com 2 pinks, pois quando avancar vc avanca a pink
+
+- Se voce esta na frente inibdor é mais interessante que baron, se voce esta atras,
+baron é mais importante para recuperar o game e segurar o jogo e gold
+
+- voce so foca dragao anciao quando voce tem drag, exceto se for pra tirar o "buff"
+do time adversario
+
+- dragao anciao sempre é menos importante que inib, porem na soloq ele impacta mais
+
+- dragao anciao é sempre bom pra forcar luta, porem é mais counteravel, pois é so ficar 
+dando desengage
+
+- se nao tiver como constestar o baron, pega o drag, nao perde tempo indo "zonear" o 
+baron
+
+- puxar as sides e juntar mid, sempre lembrando das formas de push
+
+- nao tentar dar dive na t3, apenas pressione a torre com as waves
+
+- quando cai a t3 adversaria, a unica opcao deles é lutar
+
+- caso nao tenha como dar gg e levou um inib, va pra outra lane para tirar mais 
+inibidores
+
+- com 2 inibs down voce apenas tira os minions advesarios para os supermionios 
+darem gg sem precisar lutar a toa
+
+- se baron e drag anciao estiver vivo e voce quiser pega-los, abra o inib do 
+lado contrario para ter pressao extra, se for possivel
+
+
+////////////// EXTRA
+
+uma side ganhando no early e minha lane oposta tomando um pau, o que fazer?
+- wardar o meio do rio para pegar entrada da sua lane e saida da jg adversaria,
+para evitar ganks
+
+- apos o jg aparecer, recuar, e quando ele sair puxar a lane, se ele aparecer, 
+recuar novamente para nao tomar o gank, caso ele nao volte, ir com uma pink ou 
+ward normal, ganhar visao da jg adversaria
+
+- tendo visao na jg adversaria e pressao na sua lane, gankar mid ou ir junto ao jg para
+pressionar o jg adversario, passando a pressao que voce tem na sua lane para outras
+lanes proximas
+
+- mantenha o track do jg adversario
+
+- uma vez que o mid e o jg tenham pressao liberada, eles gankam junto a lane que esta
+perdendo recuperando assim a pressao da lane que esta perdendo e/ou snowbalando mid e jg
+
+
+
+
+
+
+
